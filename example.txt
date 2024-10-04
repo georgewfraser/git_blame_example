@@ -1,4 +1,4 @@
-my;
-dog;
-has;
-fleas;
+my
+dog
+has
+fleas
